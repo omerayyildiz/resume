@@ -1,19 +1,45 @@
 # Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+- company: Nishgt Design Community
+  position: Founder
+  duration: Mar, 2020 &mdash; Present
+  summary: >
+    I’m responsible for the management of all operations, designs, and marketing in this community that I have established with great enthusiasm. We are working hard to achieve good work in the field of graphic design. In a short time like a month, I have successfully established the whole ecosystem that operates between management and sub-teams and I continue to develop it.
+    <ul>
+      <li>Nishgt Development Ecosystem on Cloud and GitHub</li>
+      <li>Design Thinking Crash Course Instructor</li>
+    </ul>
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+- company: eeBrainTeam
+  position: Team Leader of Product Development
+  duration: Jun, 2020 &mdash; Jun, 2021
+  summary: > 
+    We produce creative design for communities and organizations. In addition, I also take place in the management of many projects from the design phase to the development phase.
+    <ul>
+      <li>Web UI/UX Design</li>
+      <li>Community and Small Business Branding</li>
+    </ul>
 
+- company: C and System Programming Association
+  position: Graphic Designer
+  duration: Feb, 2020  &mdash; Present
+  summary: > 
+    I’m designing the brand design for the community and the content that needs to be prepared for the event.
+    <ul>
+      <li>Mobile and Web UI Design</li>
+      <li>Event Banner and Live Sessions Design</li>
+    </ul>
 
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+- company: Software Development Turkey Community
+  position: Moderator
+  duration: Nov, 2018  &mdash; Present
+  summary: >
+    A community of over 1000 people, including famous software developers and designers. I am responsible for the organization and management of many events in this community.
+    <ul>
+      <li>Community and Events Management</li>
+      <li>Open Source Project Development</li>
+    </ul>
+
+- company: Freelance
+  position: Graphic Designer
+  duration: 2017  &mdash; Present
+  summary: I successfully brought brand, poster, logo, banner and many design pieces of work. Thanks to the good communication I have established with people, many of my customers have been satisfied with my service.

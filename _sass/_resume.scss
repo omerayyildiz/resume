@@ -21,7 +21,7 @@
 .page-header { padding: 1.5rem 0;
 
   .avatar {
-    width: 95px;
+    width: 7.5rem;
     max-width: 100%;
     overflow: hidden;
     @include border-radius(100px);
@@ -116,11 +116,13 @@
   display: block;
   margin: 1.5rem auto;
   width: 220px;
-  font-size: 1.375rem;
+  font-size: 1.25rem;
   @include sans_light;
+  font-weight: bold;
   color: #333;
   line-height: 55px;
   @include transition(all .2s ease);
+  border-radius: 5px;
 
   &:hover {
     background-color: #333;

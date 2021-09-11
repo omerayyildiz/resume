@@ -1,16 +1,55 @@
 # Projects
-# uncomment the urls if you wish to display them, and add your own URL
+- project: projectGenerator
+  role: Creator
+  duration: 2021
+  url: "https://github.com/omerayyildiz/projectGenerator"
+  description: Project directory generator for design jobs.
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+- project: beginnerGit
+  role: Creator
+  duration: 2021
+  url: "https://github.com/omerayyildiz/beginnerGit"
+  description: Semantic commit and git manager for beginners.
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+- project: Spotify Moodboard
+  role: Creator
+  duration: 2021
+  url: "https://github.com/omerayyildiz/moodboard.omerayyildiz.com"
+  description: Spotify is my inspiration and this website is my passion show.
+
+- project: Source Pocket
+  role: Designer
+  duration: 2021
+  url: "https://github.com/sdtrdev/source-pocket"
+  description: Source Pocket has been created to help developer community to easily find most useful resources according to their level.
+
+- project: TR Spam Calls Database
+  role: Contributor
+  duration: 2021
+  url: "https://github.com/tr-spam-calls/tr-spam-calls"
+  description: This repo was created by adding the phone numbers that were previously complained about, been the subject of news sites or reported as fraudulent in other social media, by the victims.
+
+- project: Shell Cheatsheet
+  role: Contributor
+  duration: 2020
+  url: "https://github.com/merveenoyan/shell-cheatsheet"
+  description: This repo contains Turkish explanations of shell commands.
+
+- project: Pardus-AutoSetup
+  role: Creator
+  duration: 2019 &mdash; 2020
+  url: "https://github.com/omerayyildiz/Pardus-AutoSetup"
+  description: It is a BASH Script that downloads the applications I set automatically to Pardus that opens after Live or normal installation and makes my settings.
+
+- project: Pentacore
+  role: Project Manager
+  duration: 2019
+  url: "https://play.google.com/store/apps/details?id=com.eksioglu.faruk.elementler&hl=tr&gl=US"
+  description: Pentacore project is an interactive periodic table application for TUBITAK.
+
+
+
+
+
+
+
