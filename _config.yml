@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Ömer Ayyıldız"
-resume_title:                   "Jr. Product Designer"
+resume_title:                   "Graphic Designer"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "omerayyildizwork@gmail.com"
@@ -45,14 +45,14 @@ resume_section_interests:       true
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_github_url:            "https://github.com/omerayyildiz"
-  resume_twitter_url:           "https://twitter.com/omerayyildiz101"
-  #resume_dribbble_url:          "https://dribbble.com/jag"
-  # resume_facebook_url:          "insert Facebook URL here"
+  #resume_github_url:            ""
+  #resume_twitter_url:           ""
+  #resume_dribbble_url:          ""
+  # resume_facebook_url:         ""
   resume_linkedin_url:          "https://www.linkedin.com/in/omer-ayyildiz"
   # resume_instagram_url:         "insert your Instagram URL here"
   resume_website_url:           "https://omerayyildiz.com"
-  resume_medium_url:            "https://medium.com/@omerayyildiz"
+  #resume_medium_url:            "https://medium.com/@omerayyildiz"
 resume_print_social_links:      true
 
 # Design settings
