@@ -17,18 +17,6 @@
   url: "https://github.com/omerayyildiz/moodboard.omerayyildiz.com"
   description: Spotify is my inspiration and this website is my passion show.
 
-- project: Source Pocket
-  role: Designer
-  duration: 2021
-  url: "https://github.com/sdtrdev/source-pocket"
-  description: Source Pocket has been created to help developer community to easily find most useful resources according to their level.
-
-- project: TR Spam Calls Database
-  role: Contributor
-  duration: 2021
-  url: "https://github.com/tr-spam-calls/tr-spam-calls"
-  description: This repo was created by adding the phone numbers that were previously complained about, been the subject of news sites or reported as fraudulent in other social media, by the victims.
-
 - project: Shell Cheatsheet
   role: Contributor
   duration: 2020
