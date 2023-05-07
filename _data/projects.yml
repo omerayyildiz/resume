@@ -1,4 +1,10 @@
 # Projects
+- project: Nische Atelier - So inspirierend wie Stahl.
+  role: Designer & Blogger
+  duration: 2023
+  url: "https://nischeatelier.de"
+  description: On this website you can read what an apprentice has learned about typography, graphic design, watchmaking and leatherwork. We write a few things on the Internet about the fascinating disciplines of Switzerland and Germany.
+
 - project: projectGenerator
   role: Creator
   duration: 2021
@@ -28,12 +34,6 @@
   duration: 2019 &mdash; 2020
   url: "https://github.com/omerayyildiz/Pardus-AutoSetup"
   description: It is a BASH Script that downloads the applications I set automatically to Pardus that opens after Live or normal installation and makes my settings.
-
-- project: Pentacore
-  role: Project Manager
-  duration: 2019
-  url: "https://play.google.com/store/apps/details?id=com.eksioglu.faruk.elementler&hl=tr&gl=US"
-  description: Pentacore project is an interactive periodic table application for TUBITAK.
 
 
 

@@ -14,16 +14,22 @@ resume_name:                    "Ömer Ayyıldız"
 resume_title:                   "Graphic Designer"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "omerayyildizwork@gmail.com"
+resume_contact_email:           "me@omerayyildiz.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 #resume_contact_telephone:       "555-555"
 resume_contact_address:         "Istanbul / Turkey"
 
-resume_header_contact_info:     "omerayyildizwork@gmail.com"
+resume_header_contact_info:     "me@omerayyildiz.com"
 display_header_contact_info:    "true"
 
-resume_header_intro: "<p>Hi, I’m Ömer! I am Turkish of Arab origin, born in 2002. I have been interested in software and design for about 5 years. Currently, I’m studying graphic design in Turkey. I constantly read articles and do side projects to keep my work clean and qualified. I get along well with people. That’s why I work as a management consultant for many communities. I always try to achieve success by handling projects, design, communities, and software from all aspects.</p>"
+resume_header_intro: >-
+  <p>Hello, I'm Ömer. I have been involved with software since <b>2016</b>.
+  Although the foundation goes back to the 2016 years, I got into graphic design during my university years.
+  <b>Influenced by the professors</b> I worked with in academia and my curiosity to work in <b>"niche" areas</b>,
+  I have developed myself extensively in <b>typography, packaging design, and corporate identity design.</b>
+  With these skills, I started to <b>stand out</b> both in university and in my professional life.
+  I have an interest in the unique, I try different paths to be the best, and I strive to create <b>my own race track.</b></p>
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
