@@ -18,18 +18,14 @@ resume_contact_email:           "me@omerayyildiz.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 #resume_contact_telephone:       "555-555"
-resume_contact_address:         "Istanbul / Turkey"
+resume_contact_address:         "Giresun / Turkey"
 
 resume_header_contact_info:     "me@omerayyildiz.com"
 display_header_contact_info:    "true"
 
 resume_header_intro: >-
-  <p>Hello, I'm Ömer. I have been involved with software since <b>2016</b>.
-  Although the foundation goes back to the 2016 years, I got into graphic design during my university years.
-  <b>Influenced by the professors</b> I worked with in academia and my curiosity to work in <b>"niche" areas</b>,
-  I have developed myself extensively in <b>typography, packaging design, and corporate identity design.</b>
-  With these skills, I started to <b>stand out</b> both in university and in my professional life.
-  I have an interest in the unique, I try different paths to be the best, and I strive to create <b>my own race track.</b></p>
+  <p>I am a graphic designer whose interest in design started with his <b>own curiosity</b> in high school years. In high school years, I first started to be interested in programming and then in design, which I thought was more suitable for me. Later, I continued this interest by choosing the <b>graphic design department at the university.</b> When I started university, I also started working at the same time to gain real experience. I started my working life first in <b>design/product workshops</b> where I could improve myself, then as a <b>freelance designer</b> of companies at home and abroad. I also carried out <b>project-based</b> freelance work. I have continued to <b>work full-time</b> since I was close to completing my university education.</p>
+  <p>I am a designer who values the <b>right design practices</b> and fundamentals and develops works in this direction with the awareness of having started design with his own interest. <b>I define myself as a "designer"</b> who focuses on <b>solving problems</b> rather than a standard graphic designer. I also like to <b>optimize development</b> processes thanks to my programming, linux and other deep computer skills. I can say that I am a designer who has an <b>organized and systematic approach</b> and focuses on efficiency and more effective work. I think that my interests and experiences in <b>typography, printing techniques and packaging design</b> also contribute to my work.</p>
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -41,7 +37,7 @@ resume_looking_for_work:        "yes"
 # comment out to hide
 resume_section_experience:      true
 resume_section_education:       true
-resume_section_projects:        true
+resume_section_projects:        false
 resume_section_skills:          true
 resume_section_recognition:     false
 resume_section_links:           true
