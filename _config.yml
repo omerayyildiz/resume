@@ -18,14 +18,15 @@ resume_contact_email:           "me@omerayyildiz.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 #resume_contact_telephone:       "555-555"
-resume_contact_address:         "Giresun / Turkey"
+resume_contact_address:         "İstanbul / Türkiye"
 
 resume_header_contact_info:     "me@omerayyildiz.com"
 display_header_contact_info:    "true"
 
 resume_header_intro: >-
-  <p>I am a graphic designer whose interest in design started with his <b>own curiosity</b> in high school years. In high school years, I first started to be interested in programming and then in design, which I thought was more suitable for me. Later, I continued this interest by choosing the <b>graphic design department at the university.</b> When I started university, I also started working at the same time to gain real experience. I started my working life first in <b>design/product workshops</b> where I could improve myself, then as a <b>freelance designer</b> of companies at home and abroad. I also carried out <b>project-based</b> freelance work. I have continued to <b>work full-time</b> since I was close to completing my university education.</p>
-  <p>I am a designer who values the <b>right design practices</b> and fundamentals and develops works in this direction with the awareness of having started design with his own interest. <b>I define myself as a "designer"</b> who focuses on <b>solving problems</b> rather than a standard graphic designer. I also like to <b>optimize development</b> processes thanks to my programming, linux and other deep computer skills. I can say that I am a designer who has an <b>organized and systematic approach</b> and focuses on efficiency and more effective work. I think that my interests and experiences in <b>typography, printing techniques and packaging design</b> also contribute to my work.</p>
+  <p>I began my design journey <b>in high school</b> and transitioned from graphic design to product design in 2020, specializing in user experience and interface design. Alongside my university education, I gained real-world experience by working as a freelance designer for various design studios and companies both domestically and internationally.</p>
+  <p>I am a professional <b>focused on solving problems and developing user-centered designs</b>. My knowledge in <b>user research, information architecture, interaction design, and programming</b> brings a unique perspective and added value to my projects.</p>
+  <p>My goal is to follow in the footsteps of my esteemed mentors and design what is <b>"right" for people and society.</b></p>
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -47,14 +48,9 @@ resume_section_interests:       true
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  #resume_github_url:            ""
-  #resume_twitter_url:           ""
-  #resume_dribbble_url:          ""
-  # resume_facebook_url:         ""
-  resume_linkedin_url:          "https://www.linkedin.com/in/omer-ayyildiz-work"
-  # resume_instagram_url:         "insert your Instagram URL here"
+  resume_linkedin_url:          "https://www.linkedin.com/in/omerayyildizwork"
   resume_website_url:           "https://omerayyildiz.com"
-  #resume_medium_url:            "https://medium.com/@omerayyildiz"
+  resume_pdf_url:               "https://drive.google.com/file/d/1_o1tUrymdxxp8Iu32xfh1N41V6vycA48/view?usp=sharing"
 resume_print_social_links:      true
 
 # Design settings

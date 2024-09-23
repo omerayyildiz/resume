@@ -1,6 +1,15 @@
 # Skills
 - skill: Design Skills
-  description: Adobe Illustrator, Adobe Photoshop, Adobe InDesign, Adobe After Effects, CapCut, Canva, Figma, Aseprite and Excalidraw.
+  description: Figma, Illustrator, Photoshop, Excalidraw, Marvel, Video (Ae/Pr)
 
 - skill: Technical Skills
-  description: macOS (Expert), Linux, Tradingview, BASH Programming, Ruby Programming, HTML + CSS, Markdown, Git + GitHub, Docker, Agile & Scrum, Microsoft Office, Google Workspace, Trello and Miro.
+  description: HTML, CSS, Javascript, Swift, Ruby, macOS, Linux, Cloud Computing
+
+- skill: Management Skills
+  description: Agile & Scrum, Miro, Trello, MS Oﬃce, Google Workspace
+
+- skill: Sectoral Skills
+  description: UX Research, Documentation (Markdown), Prototyping, A/B Test
+
+- skill: Language Skills
+  description: Turkish (Native), Arabic (Native), English (B2)
