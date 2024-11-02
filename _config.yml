@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Ömer Ayyıldız"
-resume_title:                   "Product Designer"
+resume_title:                   "Experience Designer"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "me@omerayyildiz.com"
@@ -24,7 +24,7 @@ resume_header_contact_info:     "me@omerayyildiz.com"
 display_header_contact_info:    "true"
 
 resume_header_intro: >-
-  <p>I began my design journey <b>in high school</b> and transitioned from graphic design to product design in 2020, specializing in user experience and interface design. Alongside my university education, I gained real-world experience by working as a freelance designer for various design studios and companies both domestically and internationally.</p>
+  <p>I began my design journey <b>in high school</b> and transitioned from programming to product design in 2020, specializing in user experiences and graphic design. Alongside my university education, I gained real-world experience by working as a freelance designer for various design studios and companies both domestically and internationally.</p>
   <p>I am a professional <b>focused on solving problems and developing user-centered designs</b>. My knowledge in <b>user research, information architecture, interaction design, and programming</b> brings a unique perspective and added value to my projects.</p>
   <p>My goal is to follow in the footsteps of my esteemed mentors and design what is <b>"right" for people and society.</b></p>
 
