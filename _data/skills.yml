@@ -1,12 +1,12 @@
 # Skills
 - skill: Design Skills
-  description: Figma, Illustrator, Photoshop, Excalidraw, Marvel, Video (Ae/Pr), Typography, Print Design
+  description: Figma, Illustrator, Photoshop, Excalidraw, Video (Ae/Pr), Typography, Printing
 
 - skill: Technical Skills
-  description: HTML, CSS, Javascript, Swift, Ruby, macOS, Linux, Cloud Computing
+  description: HTML, CSS, Javascript, Swift, Ruby, Git, macOS, Linux, Cloud Computing
 
 - skill: Management Skills
-  description: Agile & Scrum, Miro, Trello, MS Oﬃce, Google Workspace
+  description: Agile & Scrum, Miro, Trello, GitHub, Microsoft Oﬃce, Google Workspace, iWork
 
 - skill: Sectoral Skills
   description: UX Research, Documentation (Markdown), Prototyping, A/B Test, Accessibility

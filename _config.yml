@@ -24,8 +24,8 @@ resume_header_contact_info:     "me@omerayyildiz.com"
 display_header_contact_info:    "true"
 
 resume_header_intro: >-
-  <p>I began my design journey <b>in high school</b> and transitioned from programming to product design in 2020, specializing in user experiences and graphic design. Alongside my university education, I gained real-world experience by working as a freelance designer for various design studios and companies both domestically and internationally.</p>
-  <p>I am a professional <b>focused on solving problems and developing user-centered designs</b>. My knowledge in <b>user research, information architecture, interaction design, and programming</b> brings a unique perspective and added value to my projects.</p>
+  <p>I began my journey of thinking creatively and designing <b>during my high school years.</b> Initially <b>starting with programming,</b> my path evolved into graphic and product design while pursuing a degree in <b>Fine Arts at university</b>. What began as a production process within school groups expanded into collaborations with volunteer communities, non-profits, startups, and corporate organizations.</p>
+  <p>I'm a professional dedicated to delivering <b>user-centered solutions and crafting inspiring stories.</b> With expertise in <b>user research, information architecture, experience design, branding, and programming,</b> I bring a unique perspective to every project, always focusing on creating <b>meaningful</b>, human-centered experiences.</p>
   <p>My goal is to follow in the footsteps of my esteemed mentors and design what is <b>"right" for people and society.</b></p>
 
 # use "yes" to display the email contact button,
@@ -50,7 +50,7 @@ resume_section_interests:       true
 resume_social_links:
   resume_linkedin_url:          "https://www.linkedin.com/in/omerayyildizwork"
   resume_website_url:           "https://omerayyildiz.com"
-  resume_pdf_url:               "https://drive.google.com/file/d/1_o1tUrymdxxp8Iu32xfh1N41V6vycA48/view?usp=sharing"
+  resume_pdf_url:               "https://drive.google.com/file/d/1Ymbn3-gxAV76PbH1-NcoNSb3d7AGcT4W/view?usp=share_link"
 resume_print_social_links:      true
 
 # Design settings
